@@ -279,9 +279,9 @@ desired effect
             </a>
           </li>
           <li>
-            <a href="#">
-              <i class="fa fa-link"></i>
-              <span>Another Link</span>
+            <a href="/admin/categories">
+              <i class="fa fa-flag"></i>
+              <span>Categorias</span>
             </a>
           </li>
           <li class="treeview">
